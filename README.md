@@ -9,6 +9,6 @@ Saves mean, standard deviation, minimum and maximum pixel values for a range of 
 
 Saves mean, standard deviation, minimum and maximum pixel values for a single exposure time over a range of pixel rates and file sizes.
 
-#pixel_statistics.py
+# pixel_statistics.py
 
 input the statistic, frame length, pixel rate, exposure time you desire, into the function, and the statistics of all pixel will return as a matrix.
